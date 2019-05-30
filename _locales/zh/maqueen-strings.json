@@ -1,6 +1,6 @@
 {
-    "maqueen.aMotors.M1|block": "左侧",
-    "maqueen.aMotors.M2|block": "右侧",
+    "maqueen.aMotors.M1|block": "лево",
+    "maqueen.aMotors.M2|block": "право",
     "maqueen.Patrol.PatrolLeft|block": "左侧",
     "maqueen.Patrol.PatrolRight|block": "右侧",
     "maqueen.LEDswitch.turnOn|block": "开",
