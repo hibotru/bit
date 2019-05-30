@@ -1,7 +1,7 @@
 {
-    "name": "maqueen",
-    "version": "0.0.1",
-    "description": "Affordable mini robot designed by DFRobot",
+    "name": "Hibotbit",
+    "version": "1.0.2",
+    "description": "Расширение для работы с Hibot:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
