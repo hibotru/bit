@@ -1,7 +1,7 @@
 {
     "name": "Hibotbit",
-    "version": "1.0.2",
-    "description": "Расширение для работы с Hibot:bit",
+    "version": "0.0.2",
+    "description": "Hibot:bit extention",
     "license": "MIT",
     "dependencies": {
         "core": "*"
