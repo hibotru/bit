@@ -16,5 +16,5 @@
     "maqueen.sensor|block": "Расстояние в|%unit",
     "maqueen.readPatrol|block": "Датчик линии|%patrol",
     "maqueen.writeLED|block": "Светодиод|%led,|%ledswitch",
-    "maqueen.IR_read|block": "Прочитать ИК-порт"
+    "maqueen.IR_read|block": "Прочитать ИК"
 }
